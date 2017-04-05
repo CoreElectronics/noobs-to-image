@@ -13,6 +13,7 @@ This tool downloads a specific version of the NOOBS .zip distribution from the R
 Get the image off the Pi with a flashdrive / shared folder.
 If you're using an NTFS formatted flash drive, make sure you execute `sudo apt-get update && sudo apt-get install ntfs-3g` otherwise you won't be able to write to the flash drive.
 
+
 #
 Built by the beautiful Pacific Ocean in Newcastle, Australia by http://switchdin.com in collaboration with http://core-electronics.com.au.
 
